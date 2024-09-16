@@ -3,7 +3,7 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.two {
+#two {
     font-size: 36px;
     color: #3700ff;
 }
@@ -12,7 +12,7 @@
     font-size: 24px;
 }
 
-.four {
+#four {
     font-size: 24px;
     background-color: hsl(108, 92%, 51%);
     font-weight: 700;
